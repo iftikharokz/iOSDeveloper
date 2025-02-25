@@ -38,11 +38,17 @@ Passionate and results-driven iOS Developer with 3.5 years of experience in buil
 ### Technical Skills
 
 - **Languages & Frameworks:** Swift, SwiftUI, MVVM, UIKit(Basic level)
+  
 - **Tools & Platforms:**  Xcode, GitHub, TestFlight, Instruments
+  
 - **APIs & Integrations:** RESTful APIs, Firebase (Auth, Firestore, Realtime Database, Crashlytics, Push Notifications), In-App Purchases, Google AdMob, PayPal, MyFatoorah Payment Gateway, Stripe, Google Maps API, MapKit, URLSession, Alamofire
+  
 - **Database & Storage:** Core Data, AppStorage, UserDefaults, Firebase Firestore, Realtime Firebase
+  
 - **UI & Animations:** Custom Views, AutoLayout, Lottie, Core Animation, SwiftUI Animations
+  
 - **Performance & Debugging:** Memory & CPU Profiling, Instruments, Crashlytics, Grand Central Dispatch (GCD), Operation Queues
+  
 - **Testing & Deployment:** App Store Submission, TestFlight, DeployGate
 
 ### Notable Projects
@@ -104,9 +110,9 @@ Pashto (Native), English (Fluent), Urdu (Fluent)
 ### Contact Information
 
 📍 Islamabad, Pakistan  
-📧 Email: iftikharhussain2230@gmail.com  
-📞 Phone: (+92) 3025458072    
-🔗 LinkedIn Profile    
+📧 [Email Me](mailto:iftikharhussain2230@gmail.com)  
+📞 [(+92) 3025458072](tel:+923025458072)            
+🔗 [LinkedIn](https://www.linkedin.com/in/iftikhar-hussain-16b795177/)
 
 ### Summary
 
