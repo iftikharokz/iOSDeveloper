@@ -1,10 +1,11 @@
+
 # Iftikhar Hussain
 
 ## iOS Developer | Swift | SwiftUI | MVVM | API Integration
 
 ### About Me
 
-I am an experienced iOS Developer with a strong passion for creating innovative and user-friendly applications. With a Bachelor's degree in Software Engineering and hands-on experience in Swift, SwiftUI, and MVVM architecture, I specialize in building high-quality apps that enhance user experiences. My goal is to contribute my skills to dynamic teams, develop cutting-edge mobile applications, and drive organizational success.
+Passionate and results-driven iOS Developer with 3.5 years of experience in building high-performance mobile applications. Skilled in Swift, SwiftUI, and MVVM architecture, I excel at crafting seamless user experiences and optimizing application performance. With a strong foundation in API integration and in-app purchases, I am eager to contribute innovative solutions to dynamic teams.
 
 ### Education
 
@@ -16,17 +17,24 @@ I am an experienced iOS Developer with a strong passion for creating innovative 
 ### Work Experience
 
 #### iOS Developer
+
 Zoobi Apps, Islamabad, Pakistan (May 2023 – Present)
 
-- Developing and maintaining high-quality iOS applications.
-
-- Implementing Swift and SwiftUI best practices.
-
-- Working on API integrations and in-app purchases.
-
-- Collaborating with designers and backend developers.
+- Developing and maintaining high-performance iOS applications, ensuring optimized UI/UX and smooth performance.    
+  
+- Implementing Swift and SwiftUI best practices, improving code efficiency and maintainability.
+  
+- Integrating RESTful APIs and third-party services, including in-app purchases and payment gateways (Google AdMob, PayPal, MyFatoorah).
+  
+- Collaborating with cross-functional teams (designers, backend developers) to enhance app features and resolve performance bottlenecks.
+  
+- Optimizing app responsiveness and memory management, reducing crash rates and improving App Store ratings.
+  
+- Mentoring and guiding junior developers, conducting code reviews, and sharing best practices to improve team efficiency and coding standards.
+  
 
 #### iOS Developer
+
 TheAppMedia, Islamabad, Pakistan (October 2021 – May 2023)
 
 - Built and optimized iOS applications with Swift and MVVM.
@@ -37,27 +45,42 @@ TheAppMedia, Islamabad, Pakistan (October 2021 – May 2023)
 
 ### Technical Skills
 
-- Programming: Swift, SwiftUI, MVVM, API Integration, GitHub, Git, In-App Purchases
+- Languages & Frameworks: Swift, SwiftUI, MVVM, UIKit(Basic level)
 
-- Tools & Platforms: Xcode, Visual Studio Code, Google Maps, MapKit
+- Tools & Platforms:  Xcode, GitHub, TestFlight, Instruments
 
-- Additional Skills: Python (Pandas, Numpy, Matplotlib)
+- APIs & Integrations: RESTful APIs, Firebase (Auth, Firestore, Realtime Database, Crashlytics, Push Notifications), In-App Purchases, Google AdMob, PayPal, MyFatoorah Payment Gateway, Stripe, Google Maps API, MapKit, URLSession, Alamofire
+
+- Database & Storage: Core Data, AppStorage, UserDefaults, Firebase Firestore, Realtime Firebase
+
+- UI & Animations: Custom Views, AutoLayout, Lottie, Core Animation, SwiftUI Animations
+
+- Performance & Debugging: Memory & CPU Profiling, Instruments, Crashlytics, Grand Central Dispatch (GCD), Operation Queues
+
+- Testing & Deployment: App Store Submission, TestFlight, DeployGate
+
 
 ### Notable Projects
 
-#### True Call ID & Spam Blocker
+#### True Call ID & Spam Blocker(1.4 million+ downloads on App Store)
 
 - Siri integration for voice-command API calls.
 
 - Identify unknown callers and block spam numbers.
 
 - Country-wise spam caller tracking.
+  
+  [App Store](https://apps.apple.com/pk/app/show-caller-id-spam-blocker/id6450506574)
 
 #### Number Finder & GPS Camera
 
 - Number name lookup with location sharing.
 
 - Integrated GPS camera and real-time weather info.
+  
+- Google Maps for traffic finding
+
+  [App Store](https://apps.apple.com/pk/app/live-mobile-number-location/id6468763239)
 
 #### Real Video Call Santa Claus
 
@@ -65,19 +88,23 @@ TheAppMedia, Islamabad, Pakistan (October 2021 – May 2023)
 
 - Designed to teach good behaviors via interactive storytelling.
 
-App Store Link
+  [App Store](https://apps.apple.com/us/app/video-call-to-santa-claus/id1642503610)
 
-#### T-Shirt Design (E-Commerce App)
+#### Guided Meditation: Sleep Music
 
-- Customizable t-shirt design tool.
-
-- Secure payment integration via PayPal.
+- Showing Meditation lessons from API.
+  
+- Used Core Data to keep track of user lessons.
+  
+- Music Player to play meditation sounds   
+     
+  [App Store](https://apps.apple.com/pk/app/guided-meditation-sleep-music/id6472265758)
 
 #### VPNMaster - Super VPN Proxy
 
 - High-speed VPN with advanced security features.
 
-App Store Link
+  [App Store](https://apps.apple.com/us/app/vpnmaster-super-vpn-proxy/id6458440925)
 
 #### Color Name Picker - Blind Test
 
@@ -85,19 +112,22 @@ App Store Link
 
 - Voice assistance for visually impaired users.
 
-App Store Link
+  [App Store](https://apps.apple.com/us/app/color-name-picker-blind-test/id1612620867)
+
 
 #### Slideshow Maker for Christmas
 
 - Create Christmas-themed slideshows with music and effects.
 
-App Store Link
+  [App Store](https://apps.apple.com/us/app/slideshow-maker-music-effects/id6444441483)
+
 
 #### CatchSantaHome
 
 - AR-based app for adding Santa Claus stickers to photos.
 
-App Store Link
+  [App Store](https://apps.apple.com/us/app/catch-santa-in-my-house/id6443581913)
+
 
 #### NFT Creator
 
@@ -105,7 +135,8 @@ App Store Link
 
 - Customize templates and import gallery photos.
 
-App Store Link
+ [App Store](https://apps.apple.com/us/app/nft-creator-digital-art-maker/id1662822287)
+
 
 #### Bedtime Stories for Kids
 
@@ -113,13 +144,16 @@ App Store Link
 
 - Supports custom fonts, backgrounds, and narration.
 
+  [App Store](https://apps.apple.com/us/app/bedtime-stories-for-kid-sleep/id1670889050)
+
+
+
+
 App Store Link
 
 ### Languages
 
-- Pashto (Native)
-- English (Fluent)
-- Urdu (Fluent)
+Pashto (Native), English (Fluent), Urdu (Fluent)
 
 ### Contact Information
 
@@ -130,5 +164,5 @@ App Store Link
 
 ### Summary
 
-I am a dedicated iOS developer with a passion for creating seamless, user-friendly mobile applications. With a strong technical background and experience working on multiple projects, I am eager to take on new challenges and contribute to innovative solutions in the mobile development industry.
+With a proven track record of developing and optimizing iOS applications, I am eager to leverage my expertise to create innovative and scalable mobile solutions. Open to collaboration and new opportunities in iOS development.
 
