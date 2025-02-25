@@ -111,7 +111,7 @@ Pashto (Native), English (Fluent), Urdu (Fluent)
 
 📍 Islamabad, Pakistan  
 📧 [Email Me](mailto:iftikharhussain2230@gmail.com)  
-📞 [(+92) 3025458072](tel:+923025458072)            
+📞 [Call Me](tel:+923025458072)            
 🔗 [LinkedIn](https://www.linkedin.com/in/iftikhar-hussain-16b795177/)
 
 ### Summary
